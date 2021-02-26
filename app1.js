@@ -1,1 +1,4 @@
-window.confirm("Only serious coffee lovers may enter!");
+function gateKeep() {
+    window.confirm("Only serious coffee lovers may enter!");
+}
+
